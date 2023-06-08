@@ -1,0 +1,15 @@
+/Applications/Evgenij/atistatVeryVeryGood/C#/bin/Debug/net7.0/C#
+/Applications/Evgenij/atistatVeryVeryGood/C#/bin/Debug/net7.0/C#.deps.json
+/Applications/Evgenij/atistatVeryVeryGood/C#/bin/Debug/net7.0/C#.runtimeconfig.json
+/Applications/Evgenij/atistatVeryVeryGood/C#/bin/Debug/net7.0/C#.dll
+/Applications/Evgenij/atistatVeryVeryGood/C#/bin/Debug/net7.0/C#.pdb
+/Applications/Evgenij/atistatVeryVeryGood/C#/obj/Debug/net7.0/C#.csproj.AssemblyReference.cache
+/Applications/Evgenij/atistatVeryVeryGood/C#/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Evgenij/atistatVeryVeryGood/C#/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/Applications/Evgenij/atistatVeryVeryGood/C#/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/Applications/Evgenij/atistatVeryVeryGood/C#/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache
+/Applications/Evgenij/atistatVeryVeryGood/C#/obj/Debug/net7.0/C#.dll
+/Applications/Evgenij/atistatVeryVeryGood/C#/obj/Debug/net7.0/refint/C#.dll
+/Applications/Evgenij/atistatVeryVeryGood/C#/obj/Debug/net7.0/C#.pdb
+/Applications/Evgenij/atistatVeryVeryGood/C#/obj/Debug/net7.0/C#.genruntimeconfig.cache
+/Applications/Evgenij/atistatVeryVeryGood/C#/obj/Debug/net7.0/ref/C#.dll

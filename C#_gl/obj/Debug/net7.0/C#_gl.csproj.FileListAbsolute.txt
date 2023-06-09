@@ -1,0 +1,15 @@
+/Applications/Evgenij/atistatVeryVeryGood/C#_gl/obj/Debug/net7.0/C#_gl.csproj.AssemblyReference.cache
+/Applications/Evgenij/atistatVeryVeryGood/C#_gl/obj/Debug/net7.0/C#_gl.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Evgenij/atistatVeryVeryGood/C#_gl/obj/Debug/net7.0/C#_gl.AssemblyInfoInputs.cache
+/Applications/Evgenij/atistatVeryVeryGood/C#_gl/obj/Debug/net7.0/C#_gl.AssemblyInfo.cs
+/Applications/Evgenij/atistatVeryVeryGood/C#_gl/obj/Debug/net7.0/C#_gl.csproj.CoreCompileInputs.cache
+/Applications/Evgenij/atistatVeryVeryGood/C#_gl/bin/Debug/net7.0/C#_gl
+/Applications/Evgenij/atistatVeryVeryGood/C#_gl/bin/Debug/net7.0/C#_gl.deps.json
+/Applications/Evgenij/atistatVeryVeryGood/C#_gl/bin/Debug/net7.0/C#_gl.runtimeconfig.json
+/Applications/Evgenij/atistatVeryVeryGood/C#_gl/bin/Debug/net7.0/C#_gl.dll
+/Applications/Evgenij/atistatVeryVeryGood/C#_gl/bin/Debug/net7.0/C#_gl.pdb
+/Applications/Evgenij/atistatVeryVeryGood/C#_gl/obj/Debug/net7.0/C#_gl.dll
+/Applications/Evgenij/atistatVeryVeryGood/C#_gl/obj/Debug/net7.0/refint/C#_gl.dll
+/Applications/Evgenij/atistatVeryVeryGood/C#_gl/obj/Debug/net7.0/C#_gl.pdb
+/Applications/Evgenij/atistatVeryVeryGood/C#_gl/obj/Debug/net7.0/C#_gl.genruntimeconfig.cache
+/Applications/Evgenij/atistatVeryVeryGood/C#_gl/obj/Debug/net7.0/ref/C#_gl.dll

@@ -1,4 +1,6 @@
-﻿int sum = 0;
+﻿// Это Код по блок схеме 
+
+int sum = 0;
 int[] array = {2, 5, 13, 7, 6, 4};
 
 for(int i = 0; i < array.Length; i++){
